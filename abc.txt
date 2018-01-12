@@ -1,3 +1,7 @@
 sahdkjsahdka
+<<<<<<< HEAD
 Tylko do
 zzzzzzz
+=======
+Tylko do odczytu
+>>>>>>> parent of f3421b8... Revert "Revert "test1""
